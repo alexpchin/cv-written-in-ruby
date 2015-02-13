@@ -107,4 +107,3 @@ class VitoBotta < ActiveRecord::Base
   end
  
 end
-- See more at: http://vitobotta.com/cv-resume/?goback=.gde_22413_member_42714027#sthash.N0DWXoAV.dpuf
